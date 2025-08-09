@@ -1,2 +1,2 @@
 # Portfolio
-This repository containing multi Portfolio using multiple languages.
+This repository containing multi portfolio using multiple languages.
